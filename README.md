@@ -1,5 +1,5 @@
 # Polygon
-## NFT Transfer
+## zk Circuit
 
 This is a simple program that is used to implement a custom zk circuit.
 
